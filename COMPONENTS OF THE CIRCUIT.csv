@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D1, D6",2,"Red LED"
+"D2, D5",2,"Green LED"
+"D3, D4",2,"Yellow LED"
+"R1, R2, R3",3,"1000 Ω Resistor"
+"R4, R5, R6",3,"1 kΩ Resistor"
+"DIST1, DIST2",2," Ultrasonic Distance Sensor (4-pin)"
